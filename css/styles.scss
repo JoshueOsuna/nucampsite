@@ -20,10 +20,8 @@ h2 {
     color: $color-primary;
 }
 
-header {
-    h2 {
-        color: $color-pale;
-    }
+header h2 {
+    color: $color-pale;
 }
 
 .site-footer {
